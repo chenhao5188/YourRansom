@@ -33,13 +33,13 @@ YourRansom
 
 解密需要将加密时生成的key文件使用[解密工具](https://goo.gl/J2HSk0)和配置中的公钥所对应的RSA私钥解密为dkey文件后与YourRansom程序置于同目录，并再次运行YourRansom。
 
-解密key的步骤可以参考：<https://goo.gl/H6G51u>
+解密key的步骤可以参考：<https://goo.gl/Z8uc5l>
 
 ### RSA密钥对
 
 一个RSA密钥对由一个公钥和一个私钥组成，YourRansom参数中需要填入的是公钥，但请务必妥善保管私钥。
 
-关于如何生成，请自行搜索。
+关于如何生成，可以使用我们提供的[生成工具](https://github.com/YourRansom/genKeypair)。
 
 
 ## LICENSE
