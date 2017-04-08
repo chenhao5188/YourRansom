@@ -14,7 +14,7 @@ twfGD10iVAWDq3yt28m+VYd2uD3xROV5m95IfeppqSokznlJDd7pjFp0jzE7BX1E
 	readmeFilename = "README.txt"
 
 	//	在线readme下载设置，留空为不使用
-	readmeUrl         = "http://ys-j.ys168.com/566932934/m4M157735JKPFTU6jsS9/readme.doc"
+	readmeUrl         = "http://test233.s1001.xrea.com/readme.png"
 	readmeNetFilename = "README.doc"
 
 	//	运行时的提示信息
