@@ -26,6 +26,8 @@ YourRansom
 
 4. 编译YourRansom，执行：`go build -x github.com/popu125/YourRansom`，编译完成的可执行文件将存于当前工作目录。
 
+目前已提供视频教程，第一次录有些语无伦次还请原谅。<https://vimeo.com/212410532>
+
 
 ## 注意事项
 
