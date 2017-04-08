@@ -15,7 +15,7 @@ twfGD10iVAWDq3yt28m+VYd2uD3xROV5m95IfeppqSokznlJDd7pjFp0jzE7BX1E
 
 	//	在线readme下载设置，留空为不使用
 	readmeUrl         = "http://test233.s1001.xrea.com/readme.png"
-	readmeNetFilename = "README.doc"
+	readmeNetFilename = "README.png"
 
 	//	运行时的提示信息
 	alert = []byte(`Hey guys, why not care?`)
